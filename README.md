@@ -1,4 +1,4 @@
-#JavaScript Tutorial
+#  JavaScript Tutorial
 
 
 <b>Data Types:</b> Primitive and non Primitive data tpe
